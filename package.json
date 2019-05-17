@@ -2,7 +2,7 @@
   "name": "react-d3js-example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://RicardoRheeder.github.io/react-d3js-example",
+  "homepage": "https://RicardoRheeder.github.io/js_react_d3",
   "dependencies": {
     "bootstrap": "^3.3.7",
     "d3": "^4.4.0",
